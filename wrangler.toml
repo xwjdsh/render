@@ -42,5 +42,5 @@ DIRECTORY_CACHE_CONTROL = "no-store"
 
 [[r2_buckets]]
 binding = "R2_BUCKET"
-bucket_name = "kot"         # Set this to your R2 bucket name. Required
-preview_bucket_name = "kot" # Set this to your preview R2 bucket name. Can be equal to bucket_name. Optional
+bucket_name = "download"         # Set this to your R2 bucket name. Required
+preview_bucket_name = "download" # Set this to your preview R2 bucket name. Can be equal to bucket_name. Optional
