@@ -35,7 +35,7 @@ NOTFOUND_FILE = ""
 DIRECTORY_LISTING = true
 
 # Enable to hide files or directories beginning with . from directory listings.
-HIDE_HIDDEN_FILES = false
+HIDE_HIDDEN_FILES = true
 
 # Set a cache header here, e.g. "max-age=86400", if you want to cache directory listings.
 DIRECTORY_CACHE_CONTROL = "no-store"
